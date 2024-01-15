@@ -1,9 +1,9 @@
 ![banner](https://github.com/cnqqi/cnqqi/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anggi Susanti</h1>
-<h3 align="center">Pythonista</h3>
 
 
-- 🌱 I’m currently learning **Data Analyst (Udemy)**
+
+
 
 - 📫 How to reach me **cnqqi5@gmail.com**
 
